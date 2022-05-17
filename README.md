@@ -1,7 +1,7 @@
 ### Ola! Venha conhecer um pouco do meu trabalho, seja bem vindo ao meu github 👋
 
 #### 💪 *Atualmente sou aluna da Escola SAGA, desenvolvendo skills em animação e artes vetoriais*
-#### 🎉 *Formada em Logistica, Vejo um enerme campo de aplicação para a área de desenvolvimento que minha paixão.*
+#### 🎉 *Formada em Logistica, Vejo um enerme campo de aplicação para a área de desenvolvimento que é minha paixão.*
 #### 📌 *Estudo Front-End voltado ao Full-Stak* 
 #### 🚀 *Procuro voltar minha carreira para a área de Tecnologia* 
 #### 😄 *Agradeço a Atenção !!* 
