@@ -1,16 +1,32 @@
-### Hi there 👋
+### Ola! Venha conhecer um pouco do meu trabalho, seja bem vindo ao meu github 👋
 
-<!--
-**AgneSamira/agneSamira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💪 *Atualmente sou aluna da Escola SAGA, desenvolvendo skills em animação e artes vetoriais*
+#### 🎉 *Formada em Logistica, Vejo um enerme campo de aplicação para a área de desenvolvimento que minha paixão.*
+#### 📌 *Estudo Front-End voltado ao Full-Stak* 
+#### 🚀 *Procuro voltar minha carreira para a área de Tecnologia* 
+#### 😄 *Agradeço a Atenção !!* 
+#### 🚀 *__Espero que tenhamos oportunidades de trabalharmos juntos no futuro!__* 🚀
+  
 
-Here are some ideas to get you started:
+<div align="center" >
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=agnessamira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>    
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnessamira&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
+<h4 align="center"> Sou completamente acessivel e aceito sugestões para meu aprimoramento, para entrar em contato comigo Acesse minhas Redes Sociais <BR>👇🏻 </h4>
+   
+  <div align="center"> 
+    <a href="https://instagram.com/euagnes._" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+    <a href = "mailto:agnessamira75@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a> 
+    <a href="https://www.linkedin.com/in/agnes-samira-4878761b7/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+  </div>
+  
+
