@@ -12,9 +12,9 @@
 
   
   
-<h4 align="center"> Sou completamente acessivel e aceito sugestões para meu aprimoramento, para entrar em contato comigo Acesse minhas Redes Sociais <BR>👇🏻 </h4>
+<h4 allign="center"> Sou completamente acessivel e aceito sugestões para meu aprimoramento, para entrar em contato comigo Acesse minhas Redes Sociais <BR>👇🏻 </h4>
    
-  <div align="center"> 
+  <div allign="center"> 
     <a href="https://instagram.com/euagnes._" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
@@ -26,4 +26,6 @@
     </a>
   </div>
   
+
+ //teste comentario
 
